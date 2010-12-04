@@ -23,23 +23,16 @@ Inspired by [txus](https://github.com/txus/brainfuck)
 
     $ npm install node-brainfuck
 
-## Usage
-
-### Nodejs
+## Nodejs
 
     var bf = require('node-brainfuck);
     bf(stdout);
 
-### Binary
+## Binary
 
     $ node-brainfuck hello_world.bf
-     H
-     e
-     l
-     l
-     ...
 
-### Client
+## Client
 
     <script src='brainfuck-client-compressed.js' type='text/javascript'></script>
     <script type='text/javascript'>
@@ -57,7 +50,7 @@ Inspired by [txus](https://github.com/txus/brainfuck)
 
 ## TODO:
 
-    * Needs testing
-    * Some nested brackets don't work properly
-    * Somehow expose nodejs stdin so it can be used with any stream reader. (for example, building a http brainfucked server)
-    * Have some holidays
+  * Needs testing
+  * Some nested brackets don't work properly
+  * Somehow expose nodejs stdin so it can be used with any stream reader. (for example, building a http brainfucked server)
+  * Have some holidays
