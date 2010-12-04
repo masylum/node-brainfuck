@@ -1,7 +1,7 @@
 {
   "name": "node-brainfuck",
   "description": "Almost inexistant brainfuck compiler for nodejs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Pau Ramon <masylum@gmail.com>",
   "main": "./lib/node-brainfuck",
   "repository" : {"type": "git" , "url": "http://github.com/masylum/node-brainfuck.git" },
