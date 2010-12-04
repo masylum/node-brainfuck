@@ -54,3 +54,10 @@ Inspired by [txus](https://github.com/txus/brainfuck)
         });
       }());
     </script>
+
+## TODO:
+
+    * Needs testing
+    * Some nested brackets don't work properly
+    * Somehow expose nodejs stdin so it can be used with any stream reader. (for example, building a http brainfucked server)
+    * Have some holidays
