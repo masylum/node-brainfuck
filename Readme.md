@@ -25,7 +25,7 @@ Inspired by [txus](https://github.com/txus/brainfuck)
 
 ## Nodejs
 
-    var bf = require('node-brainfuck);
+    var bf = require('node-brainfuck');
     bf(stdout);
 
 ## Binary
